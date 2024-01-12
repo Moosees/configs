@@ -1,0 +1,44 @@
+{
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.indentSize": "tabSize",
+	"editor.wordWrap": "on",
+	"editor.formatOnSave": true,
+	"files.insertFinalNewline": true,
+	"javascript.format.semicolons": "insert",
+	"javascript.preferences.importModuleSpecifierEnding": "js",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"[scss]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	// "[vue]": {
+	// 	"editor.defaultFormatter": "Vue.volar"
+	// },
+	// "editor.defaultFormatter": "esbenp.prettier-vscode",
+	// "prettier.tabWidth": 4,
+	// "prettier.useTabs": true,
+	// "prettier.singleQuote": true,
+}
